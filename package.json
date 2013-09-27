@@ -1,0 +1,14 @@
+{
+  "name": "eslint-rule-server",
+  "version": "0.0.0",
+  "description": "Simple Express app to mimic raw.github.com routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew de Andrade <andrew@deandrade.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.0"
+  }
+}
